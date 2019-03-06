@@ -1,0 +1,2 @@
+
+require('import-jsx')('./ui')

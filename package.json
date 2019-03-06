@@ -1,0 +1,11 @@
+{
+  "name": "ink-long-output-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "import-jsx": "^1.3.0",
+    "ink": "^2.0.3",
+    "react": "^16.8.4"
+  }
+}
